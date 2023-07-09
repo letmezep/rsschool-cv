@@ -1,1 +1,1 @@
-# rsschool-cv
+https://letmezep.github.io/rsschool-cv/
