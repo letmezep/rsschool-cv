@@ -2,10 +2,10 @@
 
 ##Contacts:
 
-Phone:
-E-mail: letmezep@gmail.com
-Telegram: @Chillie
-GitHub: letmezep
+**Phone:**
+**E-mail:** letmezep@gmail.com
+**Telegram:** @Chillie
+**GitHub:** letmezep
 
 ---------------------------------------------------------------------
 
