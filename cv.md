@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------
 
 ##About me
-I work in the development department of a federal trade company
+I working in the development department of a federal trade company
 
 ---------------------------------------------------------------------
 
